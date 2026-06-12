@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoeTomlin
 - 👀 I’m interested in React applications and interactions with hardware
-- 🌱 I’m looking to collaborate on Climate Tech solutions
+- 🌱 I’m open for collaboration
 - 📫 You can reach me on LinkedIn
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have created and led multiple D&D campaigns!
