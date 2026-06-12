@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoeTomlin
-- 👀 I’m interested in React applications and interactions with hardware
+- 👀 I’m interested in TypeScript and React applications
 - 🌱 I’m open for collaboration
 - 📫 You can reach me on LinkedIn
 - 😄 Pronouns: He/Him/His
